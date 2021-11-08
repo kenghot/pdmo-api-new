@@ -1,0 +1,9 @@
+ [
+ { ErrorCode = "EmailNotConfirm", ErrorDesc = "Email isn't confirmed.", Language = "en" },
+ { ErrorCode = "PhoneNotConfirm", ErrorDesc = "Phone Number isn't confirmed.", Language = "en" },
+ { ErrorCode = "AlreadyLockOut", ErrorDesc = "Account is locked out.", Language = "en" },
+ { ErrorCode = "2FARequired", ErrorDesc = "2FA required.", Language = "en" },
+ { ErrorCode = "UserNotFound", ErrorDesc = "User is not found.", Language = "en" },
+  {ErrorCode = "InvalidPass", ErrorDesc = "Password is incorrect.", Language = "en" },
+   { ErrorCode = "TokenError", ErrorDesc = tokenResponse.ErrorDescription, Language = "en" }
+ ]

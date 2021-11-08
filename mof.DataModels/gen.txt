@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=common.mgtsvr.com;Initial Catalog=pdmo;MultipleActiveResultSets=true;User ID=sa;Password=DBShare@1234" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context MOFContext -f

@@ -1,0 +1,294 @@
+{
+    "items": [
+        {
+            "code": "01000",
+            "name": "สำนักนายกรัฐมนตรี",
+            "isActive": false,
+            "id": 1,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "02000",
+            "name": "กระทรวงกลาโหม",
+            "isActive": true,
+            "id": 2,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "03000",
+            "name": "กระทรวงการคลัง",
+            "isActive": true,
+            "id": 3,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "04000",
+            "name": "กระทรวงการต่างประเทศ",
+            "isActive": false,
+            "id": 4,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "05000",
+            "name": "กระทรวงการท่องเที่ยวและกีฬา",
+            "isActive": false,
+            "id": 5,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "06000",
+            "name": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์",
+            "isActive": false,
+            "id": 6,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "07000",
+            "name": "กระทรวงเกษตรและสหกรณ์",
+            "isActive": true,
+            "id": 7,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "08000",
+            "name": "กระทรวงคมนาคม",
+            "isActive": true,
+            "id": 8,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "09000",
+            "name": "กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+            "isActive": false,
+            "id": 9,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "11000",
+            "name": "กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร",
+            "isActive": false,
+            "id": 10,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "12000",
+            "name": "กระทรวงพลังงาน",
+            "isActive": false,
+            "id": 11,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "13000",
+            "name": "กระทรวงพาณิชย์",
+            "isActive": false,
+            "id": 12,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "15000",
+            "name": "กระทรวงมหาดไทย",
+            "isActive": true,
+            "id": 13,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "16000",
+            "name": "กระทรวงยุติธรรม",
+            "isActive": false,
+            "id": 14,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "17000",
+            "name": "กระทรวงแรงงาน",
+            "isActive": false,
+            "id": 15,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "18000",
+            "name": "กระทรวงวัฒนธรรม",
+            "isActive": false,
+            "id": 16,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "19000",
+            "name": "กระทรวงวิทยาศาสตร์และเทคโนโลยี",
+            "isActive": true,
+            "id": 17,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "20000",
+            "name": "กระทรวงศึกษาธิการ",
+            "isActive": true,
+            "id": 18,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "21000",
+            "name": "กระทรวงสาธารณสุข",
+            "isActive": true,
+            "id": 19,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "22000",
+            "name": "กระทรวงอุตสาหกรรม",
+            "isActive": false,
+            "id": 20,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "25000",
+            "name": "ส่วนราชการไม่สังกัดสำนักนายกรัฐมนตรี กระทรวง หรือทบวง",
+            "isActive": false,
+            "id": 21,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "27000",
+            "name": "หน่วยงานของรัฐสภา",
+            "isActive": false,
+            "id": 22,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "28000",
+            "name": "หน่วยงานของศาล",
+            "isActive": false,
+            "id": 23,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "29000",
+            "name": "หน่วยงานขององค์กรตามรัฐธรรมนูญ",
+            "isActive": false,
+            "id": 24,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "50000",
+            "name": "รัฐวิสาหกิจ",
+            "isActive": true,
+            "id": 25,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "60000",
+            "name": "สภากาชาดไทย",
+            "isActive": true,
+            "id": 26,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "70000",
+            "name": "จังหวัดและกลุ่มจังหวัด",
+            "isActive": false,
+            "id": 27,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "80000",
+            "name": "กองทุนและเงินทุนหมุนเวียน",
+            "isActive": false,
+            "id": 28,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        },
+        {
+            "code": "90000",
+            "name": "งบกลาง",
+            "isActive": false,
+            "id": 29,
+            "sId": null,
+            "startDate": "2018-01-04",
+            "endDate": "9999-01-12",
+            "agencies": []
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "ไม่ระบุ",
+            "level": 0,
+            "parentId": 0,
+            "isActive": true
+        },
+        {
+            "id": 1,
+            "name": "สาขาพลังงาน",
+            "level": 0,
+            "parentId": 1,
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "ไฟฟ้า",
+            "level": 1,
+            "parentId": 1,
+            "isActive": true,
+            "parent": {
+                "id": 1,
+                "name": "สาขาพลังงาน",
+                "level": 0,
+                "parentId": 1,
+                "isActive": true
+            }
+        },
+        {
+            "id": 3,
+            "name": "ปิโตรเลียม",
+            "level": 1,
+            "parentId": 1,
+            "isActive": true,
+            "parent": {
+                "id": 1,
+                "name": "สาขาพลังงาน",
+                "level": 0,
+                "parentId": 1,
+                "isActive": true
+            }
+        },
+        {
+            "id": 4,
+            "name": "สาขาคมนาคมขนส่ง",
+            "level": 0,
+            "parentId": 4,
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "ขนส่งทางราง",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 6,
+            "name": "ขนส่งทางรางในเมือง",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 7,
+            "name": "ขนส่งทางถนน",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 8,
+            "name": "ขนส่งทางอากาศ",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 9,
+            "name": "ขนส่งทางน้ำ",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 10,
+            "name": "รถไฟความเร็วสูง",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 11,
+            "name": "ตั๋วร่วม",
+            "level": 1,
+            "parentId": 4,
+            "isActive": true,
+            "parent": {
+                "id": 4,
+                "name": "สาขาคมนาคมขนส่ง",
+                "level": 0,
+                "parentId": 4,
+                "isActive": true
+            }
+        },
+        {
+            "id": 12,
+            "name": "สาขาสื่อสาร",
+            "level": 0,
+            "parentId": 12,
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "โครงข่ายโทรคมนาคม",
+            "level": 1,
+            "parentId": 12,
+            "isActive": true,
+            "parent": {
+                "id": 12,
+                "name": "สาขาสื่อสาร",
+                "level": 0,
+                "parentId": 12,
+                "isActive": true
+            }
+        },
+        {
+            "id": 14,
+            "name": "อินเตอร์เน็ตความเร็วสูง",
+            "level": 1,
+            "parentId": 12,
+            "isActive": false,
+            "parent": {
+                "id": 12,
+                "name": "สาขาสื่อสาร",
+                "level": 0,
+                "parentId": 12,
+                "isActive": true
+            }
+        },
+        {
+            "id": 15,
+            "name": "สาขาสาธารณูปการ",
+            "level": 0,
+            "parentId": 15,
+            "isActive": false
+        },
+        {
+            "id": 16,
+            "name": "สาขาประปา",
+            "level": 0,
+            "parentId": 16,
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "ระบบบำบัดน้ำเสีย/กำจัดขยะ",
+            "level": 1,
+            "parentId": 15,
+            "isActive": false,
+            "parent": {
+                "id": 15,
+                "name": "สาขาสาธารณูปการ",
+                "level": 0,
+                "parentId": 15,
+                "isActive": false
+            }
+        },
+        {
+            "id": 18,
+            "name": "ที่อยู่อาศัยสำหรับผู้มีรายได้น้อย",
+            "level": 1,
+            "parentId": 15,
+            "isActive": false,
+            "parent": {
+                "id": 15,
+                "name": "สาขาสาธารณูปการ",
+                "level": 0,
+                "parentId": 15,
+                "isActive": false
+            }
+        },
+        {
+            "id": 19,
+            "name": "สาขาอุตสาหกรรมและพาณิชยกรรม",
+            "level": 0,
+            "parentId": 19,
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "นิคมอุตสาหกรรม",
+            "level": 1,
+            "parentId": 19,
+            "isActive": true,
+            "parent": {
+                "id": 19,
+                "name": "สาขาอุตสาหกรรมและพาณิชยกรรม",
+                "level": 0,
+                "parentId": 19,
+                "isActive": true
+            }
+        },
+        {
+            "id": 21,
+            "name": "เศรษฐกิจดิจิทัล",
+            "level": 1,
+            "parentId": 19,
+            "isActive": true,
+            "parent": {
+                "id": 19,
+                "name": "สาขาอุตสาหกรรมและพาณิชยกรรม",
+                "level": 0,
+                "parentId": 19,
+                "isActive": true
+            }
+        },
+        {
+            "id": 22,
+            "name": "สาขาเกษตร",
+            "level": 0,
+            "parentId": 22,
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "ระบบชลประทาน",
+            "level": 1,
+            "parentId": 22,
+            "isActive": true,
+            "parent": {
+                "id": 22,
+                "name": "สาขาเกษตร",
+                "level": 0,
+                "parentId": 22,
+                "isActive": true
+            }
+        },
+        {
+            "id": 24,
+            "name": "ป้องกันอุทกภัย",
+            "level": 1,
+            "parentId": 22,
+            "isActive": true,
+            "parent": {
+                "id": 22,
+                "name": "สาขาเกษตร",
+                "level": 0,
+                "parentId": 22,
+                "isActive": true
+            }
+        },
+        {
+            "id": 25,
+            "name": "สาขาทรัพยากรธรรมชาติ",
+            "level": 0,
+            "parentId": 25,
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "สาขาสังคมและเทคโนโลยี",
+            "level": 0,
+            "parentId": 26,
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "ศึกษา",
+            "level": 1,
+            "parentId": 26,
+            "isActive": true,
+            "parent": {
+                "id": 26,
+                "name": "สาขาสังคมและเทคโนโลยี",
+                "level": 0,
+                "parentId": 26,
+                "isActive": true
+            }
+        },
+        {
+            "id": 28,
+            "name": "สาธารณะสุข",
+            "level": 1,
+            "parentId": 26,
+            "isActive": true,
+            "parent": {
+                "id": 26,
+                "name": "สาขาสังคมและเทคโนโลยี",
+                "level": 0,
+                "parentId": 26,
+                "isActive": true
+            }
+        },
+        {
+            "id": 29,
+            "name": "วิทยาศาสตร์ เทคโนโลยีและนวัตกรรม",
+            "level": 1,
+            "parentId": 26,
+            "isActive": true,
+            "parent": {
+                "id": 26,
+                "name": "สาขาสังคมและเทคโนโลยี",
+                "level": 0,
+                "parentId": 26,
+                "isActive": true
+            }
+        },
+        {
+            "id": 30,
+            "name": "สาขาสถาบันการเงิน",
+            "level": 0,
+            "parentId": 30,
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "อื่นๆ",
+            "level": 0,
+            "parentId": 31,
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "สาขาที่อยู่อาศัย",
+            "level": 0,
+            "parentId": 34,
+            "isActive": true
+        }
+    ]
+}

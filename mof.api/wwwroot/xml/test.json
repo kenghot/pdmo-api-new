@@ -1,0 +1,2659 @@
+{
+    "items": [
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1197,
+                        "projectPlanId": 242,
+                        "year": 2564,
+                        "budget": 181910000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1198,
+                        "projectPlanId": 242,
+                        "year": 2565,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1199,
+                        "projectPlanId": 242,
+                        "year": 2566,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1200,
+                        "projectPlanId": 242,
+                        "year": 2567,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1201,
+                        "projectPlanId": 242,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 242,
+                "projectId": 2,
+                "createdAt": "2020-02-17 14:23:47",
+                "createdBy": 287,
+                "updatedAt": "2020-02-17 14:25:42",
+                "updatedBy": 287,
+                "planConfigId": 3,
+                "coordinatorName": "นางเกษกนก คุ้มพันธุ์",
+                "coordinatorPosition": "ผู้อำนวยการกองเงินกู้",
+                "coordinatorTel": "027164000 ต่อ 2232 หรือ 2240",
+                "coordinatorMail": "kedkanok@mrta.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "08000",
+                    "code": "50313",
+                    "name": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+                    "isActive": true,
+                    "id": 385,
+                    "ministryId": 8,
+                    "sId": "S313",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 6,
+                    "name": "ขนส่งทางรางในเมือง",
+                    "level": 1,
+                    "parentId": 4,
+                    "isActive": true
+                },
+                "id": 2,
+                "name": "โครงการรถไฟฟ้าสายสีน้ำเงิน ช่วงหัวลำโพง-บางแค และช่วงบางซื่อ-ท่าพระ",
+                "provinceCode": "10000000",
+                "agencyId": 385,
+                "directorName": "-",
+                "directorPosition": "-",
+                "background": "เพื่อเพิ่มประสิทธิภาพและขยายการให้บริการของโครงข่ายรถไฟฟ้ามหานคร สายเฉลิมรัชมงคล ให้เป็นโครงข่ายรถไฟฟ้าสายสีน้ำเงินที่สมบูรณ์ เพื่อลดปริมาณการเดินทางโดยรถยนต์ส่วนตัวจากบริเวณชานเมืองเข้ามายังพื้นที่ใจกลางเมือง",
+                "goal": "รถไฟฟ้าสายสีน้ำเงิน ช่วงหัวลำโพง-บางแค และช่วงบางซื่อ-ท่าพระ",
+                "approvedAt": "2018-01-09 17:00:00",
+                "budget": 54324134234.0,
+                "sectorId": 6,
+                "startedAt": "2007-01-09",
+                "endedAt": "2019-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-01-10 15:09:46",
+                "createdBy": 2,
+                "updatedAt": "2020-01-30 11:30:01",
+                "updatedBy": 1,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": "F01",
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": true,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "1. งานก่อสร้างโครงสร้างทางวิ่งยกระดับ ระยะทาง 22 กม. และโครงสร้างอุโมงค์ทางวิ่งใต้ดิน ระยะทาง 5 กม. \n2. งานก่อสร้างอาคารสถานียกระดับ จำนวน 17  สถานี และสถานีใต้ดิน จำนวน 4 สถานี \n3. งานจัดหาและติดตั้งระบบราง ระยะทาง 27 กม.\n4. งานก่อสร้างศูนย์ซ่อมบำรุงรถไฟฟ้า ที่บางหว้า และอาคารจอดรถที่บางแค \n5. งานจัดหาและติดตั้งระบบและตัวรถไฟฟ้า\n- มีผู้ใช้บริการรถไฟฟ้าเพิ่มขึ้นประมาณ 225,790 คน/วัน (ประมาณการในปี 2560)\n- ก่อให้เกิดการจ้างงานในระหว่างการก่อสร้าง\n- เพิ่มความรวดเร็ว สะดวกสบาย ปลอดภัย และตรงต่อเวลาในการเดินทาง\n- สนับสนุนให้มีการขยายตัวทางด้านเศรษฐกิจ เนื่องจากมีความสะดวกรวดเร็วในการเดินทางมากขึ้น\n- ช่วยบรรเทาปัญหาและลดความสูญเสียจากการจราจรติดขัด \n- ช่วยปรับปรุงสิ่งแวดล้อม และเพิ่มคุณภาพชีวิตของประชาชน",
+                "projectArea": "ช่วงหัวลำโพง - บางแค มีเส้นทางเริ่มจากปลายทางของรถไฟฟ้าฯ สายเฉลิมรัชมงคล ที่หัวลำโพง ผ่านเยาวราช  เฉลิมกรุง ปากคลองตลาด  บางกอกใหญ่  ท่าพระ ไปตามแนวถนนเพชรเกษม และสิ้นสุดที่บางแค และช่วงบางซื่อ-ท่าพระ มีเส้นทางเริ่มต้นจากบางซื่อ ซึ่งเป็นปลายทางของรถไฟฟ้าฯ สายเฉลิมรัชมงคล ผ่านถนนประชาราษฎร์สาย 2 ข้ามแม่น้ำเจ้าพระยาไปตามแนวถนนจรัญสนิทวงศ์ และสิ้นสุดที่บริเวณสี่แยกท่าพระ",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 2,
+            "currentProjectPlanId": 242,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1202,
+                        "projectPlanId": 243,
+                        "year": 2564,
+                        "budget": 1061086739.9999999,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1203,
+                        "projectPlanId": 243,
+                        "year": 2565,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1204,
+                        "projectPlanId": 243,
+                        "year": 2566,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1205,
+                        "projectPlanId": 243,
+                        "year": 2567,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1206,
+                        "projectPlanId": 243,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 243,
+                "projectId": 4,
+                "createdAt": "2020-02-17 14:27:22",
+                "createdBy": 287,
+                "updatedAt": "2020-02-17 14:29:55",
+                "updatedBy": 287,
+                "planConfigId": 3,
+                "coordinatorName": "นางเกษกนก คุ้มพันธุ์",
+                "coordinatorPosition": "ผู้อำนวยการกองเงินกู้",
+                "coordinatorTel": "027164000 ต่อ 2232 หรือ 2240",
+                "coordinatorMail": "kedkanok@mrta.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "08000",
+                    "code": "50313",
+                    "name": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+                    "isActive": true,
+                    "id": 385,
+                    "ministryId": 8,
+                    "sId": "S313",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 4,
+                "name": "โครงการรถไฟฟ้าสายสีเขียว ช่วงหมอชิต-สะพานใหม่-คูคต",
+                "provinceCode": "00000000",
+                "agencyId": 385,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "",
+                "goal": "ดำเนินการคัดเลือกผู้รับเหมาและที่ปรึกษาโครงการให้แล้วเสร็จและสามารถเริ่มดำเนินการก่อสร้างได้ในปี 2558 และเปิดให้บริการได้ในปี 2563",
+                "approvedAt": "2007-12-28 17:00:00",
+                "budget": 29834366740.0,
+                "sectorId": 0,
+                "startedAt": "2013-10-15",
+                "endedAt": "2021-09-29",
+                "isPlanLocked": true,
+                "importContent": 0.0,
+                "createdAt": "2018-01-29 11:29:10",
+                "createdBy": 2,
+                "updatedAt": "2020-01-27 10:04:11",
+                "updatedBy": 1,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": "F01",
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": true,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการรถไฟฟ้าสายสีเขียว ช่วงหมอชิต - สะพานใหม่ – คูคต มีระยะทางรวม 19 กิโลเมตร โดยมีโครงสร้างเป็นแบบยกระดับทั้งหมด",
+                "projectArea": "แนวเส้นทางเริ่มต้น ต่อเนื่องจากแนวเส้นทางของโครงการระบบขนส่งมวลชนกรุงเทพมหานคร (BTS)  ที่สถานีหมอชิต ข้ามทางยกระดับดอนเมืองโทลล์เวย์บริเวณห้าแยกลาดพร้าว ผ่านแยกรัชโยธิน แยกมหาวิทยาลัยเกษตรศาสตร์ ไปจนถึงบริเวณแยกหลักสี่และเบี่ยงออกด้านขวาเลียบไปตามขอบอุโมงค์ลอดแยกหลักสี่ และเบี่ยงเข้าสู่เกาะกลาง ไปจนถึงบริเวณสะพานใหม่หน้าตลาดยิ่งเจริญ เมื่อถึงประมาณกิโลเมตรที่ 25 ของถนนพหลโยธิน แนวเส้นทางจะเบี่ยงไปทางด้านทิศตะวันออก (ด้านเหนือของพื้นที่ประตูกรุงเทพฯ) ข้ามคลองสอง ผ่านด้านข้างของสถานีตำรวจภูธรคูคต เข้าสู่บริเวณเกาะกลางของถนนลำลูกกา และสิ้นสุดที่บริเวณคลองสอง (บริเวณสถานีคูคต) ซึ่งเป็นที่ตั้งของอาคารจอดรถ",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 4,
+            "currentProjectPlanId": 243,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1207,
+                        "projectPlanId": 244,
+                        "year": 2564,
+                        "budget": 10026884430.509998,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1208,
+                        "projectPlanId": 244,
+                        "year": 2565,
+                        "budget": 13002320197.220001,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1209,
+                        "projectPlanId": 244,
+                        "year": 2566,
+                        "budget": 6585039496.58,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1210,
+                        "projectPlanId": 244,
+                        "year": 2567,
+                        "budget": 45680537.980000004,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1211,
+                        "projectPlanId": 244,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 244,
+                "projectId": 11,
+                "createdAt": "2020-02-17 14:31:07",
+                "createdBy": 287,
+                "updatedAt": "2020-02-17 14:50:43",
+                "updatedBy": 287,
+                "planConfigId": 3,
+                "coordinatorName": "นางเกษกนก คุ้มพันธุ์",
+                "coordinatorPosition": "ผู้อำนวยการกองเงินกู้",
+                "coordinatorTel": "027164000 ต่อ 2232 หรือ 2240",
+                "coordinatorMail": "kedkanok@mrta.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "08000",
+                    "code": "50313",
+                    "name": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+                    "isActive": true,
+                    "id": 385,
+                    "ministryId": 8,
+                    "sId": "S313",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 5,
+                    "name": "ขนส่งทางราง",
+                    "level": 1,
+                    "parentId": 4,
+                    "isActive": true
+                },
+                "id": 11,
+                "name": "โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมฯ - มีนบุรี (สุวินทวงศ์)",
+                "provinceCode": "00000000",
+                "agencyId": 385,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "คณะรัฐมนตรีในคราวประชุมเมื่อวันที่ 9 มีนาคม 2553 ได้มีมติรับทราบผลการประชุมคณะกรรมการจัดการระบบขนส่งและจราจรทางบก (คจร.) เมื่อวันที่ 8 กุมภาพันธ์ 2553 ที่ได้มีมติเห็นชอบแผนแม่บทระบบขนส่งทางรางในเขตกรุงเทพมหานครและปริมณฑลโดยกำหนดให้หน่วยงานที่เกี่ยวข้องรับไปดำเนินการ      ในระยะ 10 ปีแรก (เปิดให้บริการภายในปี พ.ศ. 2562) ซึ่งรวมถึงโครงการรถไฟฟ้าสายสีส้ม ช่วงตลิ่งชัน–มีนบุรีและมติ ครม. เมื่อวันที่ 19 เมษายน 2559  อนุมัติให้ รฟม. ดำเนินการก่อสร้างงานโครงการรถไฟฟ้าสายสีส้มฯ",
+                "goal": "เพื่อพัฒนาประสิทธิภาพขนส่งมวลชนและระบบเศรษฐกิจของประเทศไทย",
+                "approvedAt": "2016-04-19 10:00:00",
+                "budget": 81777243222.0,
+                "sectorId": 5,
+                "startedAt": "2017-05-02",
+                "endedAt": "2022-10-02",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-01 15:37:43",
+                "createdBy": 2,
+                "updatedAt": "2018-07-20 10:47:06",
+                "updatedBy": 184,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": true,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงสร้างทางใต้ดิน 12.2 กม. และเป็นโครงสร้างทางยกระดับ 9.0 กม. มีสถานีทั้งสิ้น 17 สถานี (สถานีใต้ดิน 10 สถานี และสถานียกระดับ 7 สถานี)",
+                "projectArea": "โครงการเริ่มต้นจากศูนย์วัฒนธรรมแห่งประเทศไทย แล้วเบี่ยงเข้าบริเวณที่ตั้งอาคารสำนักงาน รฟม. ซึ่งเป็นที่ตั้งศูนย์ซ่อมบำรุง แล้วเข้าสู่ถนนพระรามเก้า ตัดผ่านถนนประดิษฐ์มนูญธรรมแล้วเลี้ยวซ้ายเข้าถนนรามคำแหง    วิ่งไปตามถนนรามคำแหงผ่านแยกลำสาลี แยกถนนกาญจนาภิเษกไปสิ้นสุดที่สถานีสุวินทวงศ์ ซึ่งอยู่บริเวณใกล้จุดตัดระหว่างถนนรามคำแหงกับถนนสุวินทวงศ์",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 11,
+            "currentProjectPlanId": 244,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1192,
+                        "projectPlanId": 241,
+                        "year": 2564,
+                        "budget": 26531400.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1193,
+                        "projectPlanId": 241,
+                        "year": 2565,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1194,
+                        "projectPlanId": 241,
+                        "year": 2566,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1195,
+                        "projectPlanId": 241,
+                        "year": 2567,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1196,
+                        "projectPlanId": 241,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 241,
+                "projectId": 12,
+                "createdAt": "2020-02-17 14:19:52",
+                "createdBy": 287,
+                "updatedAt": "2020-02-17 14:22:29",
+                "updatedBy": 287,
+                "planConfigId": 3,
+                "coordinatorName": "นางเกษกนก คุ้มพันธุ์",
+                "coordinatorPosition": "ผู้อำนวยการกองเงินกู้",
+                "coordinatorTel": "027164000 ต่อ 2232 หรือ 2240",
+                "coordinatorMail": "kedkanok@mrta.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "08000",
+                    "code": "50313",
+                    "name": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+                    "isActive": true,
+                    "id": 385,
+                    "ministryId": 8,
+                    "sId": "S313",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 6,
+                    "name": "ขนส่งทางรางในเมือง",
+                    "level": 1,
+                    "parentId": 4,
+                    "isActive": true
+                },
+                "id": 12,
+                "name": "โครงการพัฒนาสิ่งอำนวยความสะดวกเพื่อเชื่อมต่อการเดินทางบริเวณสถานีสะพานพระนั่งเกล้า โครงการรถไฟฟ้าสายสีม่วง ช่วงบางใหญ่-บางซื่อ",
+                "provinceCode": "00000000",
+                "agencyId": 385,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "คณะรัฐมนตรีในคราวประชุมเมื่อวันที่ 15 ธันวาคม 2558 ได้มีมติอนุมัติตามที่กระทรวงคมนาคมเสนอสำหรับการดำเนินการก่อสร้างโครงการพัฒนาสิ่งอำนวยความสะดวกเพื่อเชื่อมต่อการเดินทางบริเวณสถานีสะพานพระนั่งเกล้า โครงการปรับปรุงรูปแบบอาคารจอดแล้วจร แยกนนทบุรี 1 และโครงการก่อสร้างสะพานลอยกลับรถไปทางสุพรรณบุรี บริเวณหน้าโรงพยาบาล เกษมราษฎร์ รัตนาธิเบศร์ ของโครงการรถไฟฟ้าสายสีม่วง ช่วงบางใหญ่ – บางซื่อ และให้กระทรวงคมนาคมหารือกับสำนักงบประมาณในรายละเอียดเกี่ยวกับผู้ดำเนินการ  และแหล่งเงินดำเนินการ ทั้งนี้ ก่อนเริ่มขั้นตอนการดำเนินโครงการปรับปรุงอาคารจอดแล้วจร แยกนนทบุรี 1 รฟม. ต้องจัดทำรายงานการเปลี่ยนแปลงรายละเอียดโครงการในรายงานการศึกษาผลกระทบสิ่งแวดล้อม (EIA) ของโครงการปรับปรุงรูปแบบอาคารจอดแล้วจร แยกนนทบุรี 1 ตามความเห็นของกร่ะทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม และจัดทำข้อมูลศึกษาความคุ้มค่าในการลงทุนตามความเห็นของกระทรวงการคลังและสำนักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ",
+                "goal": "เพื่อเชื่อมต่อการเดินทางบริเวณสถานีสะพานพระนั่งเกล้าระหว่างสถานีรถไฟฟ้าและท่าเรือ",
+                "approvedAt": null,
+                "budget": 98000000.0,
+                "sectorId": 6,
+                "startedAt": "2017-01-04",
+                "endedAt": "2020-12-01",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-05 10:48:26",
+                "createdBy": 2,
+                "updatedAt": "2020-02-18 23:12:23",
+                "updatedBy": 4480,
+                "isOnGoing": true,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": "P01",
+                "operationTypeCode": "F01",
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": true,
+                "isGovBurden": false,
+                "creditChannelId": 3,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "",
+                "projectArea": "",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 12,
+            "currentProjectPlanId": 241,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1212,
+                        "projectPlanId": 245,
+                        "year": 2564,
+                        "budget": 8635791000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1213,
+                        "projectPlanId": 245,
+                        "year": 2565,
+                        "budget": 8428045000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1214,
+                        "projectPlanId": 245,
+                        "year": 2566,
+                        "budget": 37434730999.999992,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1215,
+                        "projectPlanId": 245,
+                        "year": 2567,
+                        "budget": 25361404000.000004,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1216,
+                        "projectPlanId": 245,
+                        "year": 2568,
+                        "budget": 2548413000.0,
+                        "sourceOfFundId": 1
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 245,
+                "projectId": 53,
+                "createdAt": "2020-02-17 15:25:37",
+                "createdBy": 287,
+                "updatedAt": "2020-02-17 15:39:24",
+                "updatedBy": 287,
+                "planConfigId": 3,
+                "coordinatorName": "นางเกษกนก คุ้มพันธุ์",
+                "coordinatorPosition": "ผู้อำนวยการกองเงินกู้",
+                "coordinatorTel": "027164000 ต่อ 2232 หรือ 2240",
+                "coordinatorMail": "kedkanok@mrta.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "08000",
+                    "code": "50313",
+                    "name": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+                    "isActive": true,
+                    "id": 385,
+                    "ministryId": 8,
+                    "sId": "S313",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 6,
+                    "name": "ขนส่งทางรางในเมือง",
+                    "level": 1,
+                    "parentId": 4,
+                    "isActive": true
+                },
+                "id": 53,
+                "name": "โครงการรถไฟฟ้าสายสีม่วง ช่วงเตาปูน - ราษฎร์บูรณะ (วงแหวนกาญจนาภิเษก)",
+                "provinceCode": "00000000",
+                "agencyId": 385,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "-",
+                "goal": "เพื่อเพิ่มประสิทธิภาพและขยายการให้บริการของโครงข่ายรถไฟฟ้าในเขตกรุงเทพฯ และปริมณฑล",
+                "approvedAt": null,
+                "budget": 101112000000.0,
+                "sectorId": 6,
+                "startedAt": "2019-10-01",
+                "endedAt": "2025-10-01",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:48:52",
+                "createdBy": 2,
+                "updatedAt": "2020-02-18 23:48:19",
+                "updatedBy": 4480,
+                "isOnGoing": false,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": "P01",
+                "operationTypeCode": "F00",
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": false,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงสร้างทางใต้ดิน 12.6 กม. และเป็นโครงสร้างทางยกระดับ 11 กม. มีสถานีทั้งสิ้น 17 สถานี (สถานีใต้ดิน 10 สถานี และสถานียกระดับ 7 สถานี)",
+                "projectArea": "โครงการเริ่มต้นเป็นทางวิ่งยกระดับจากสถานีเตาปูนไปตามแนวถนน ง 8 แล้วลดระดับเป็นทางวิ่งใต้ดิน ผ่านเข้ากรมสรรพาวุธทหารบก เลี้ยวขวาเข้าถนนทหาร ถนนสามเสน ถนนพระสุเมรุ ถนนมหาไชย ลอดใต้แม่น้ำเจ้าพระยาเข้าสู่ถนนสมเด็จพระเจ้าตากสิน เมื่อลอดผ่านสี่แยกมไหสวรรย์แล้วจึงเปลี่ยนเป็นทางวิ่งยกระดับไปตามถนนสุขสวัสดิ์ สิ้นสุดปลายทางที่บริเวณศูนย์ซ่อมบำรุงข้างด่านเก็บค่าผ่านทางถนนวงแหวนกาญจนาภิเษก",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 53,
+            "currentProjectPlanId": 245,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1248,
+                        "projectPlanId": 248,
+                        "year": 2564,
+                        "budget": 600000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1249,
+                        "projectPlanId": 248,
+                        "year": 2564,
+                        "budget": 340760000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1250,
+                        "projectPlanId": 248,
+                        "year": 2565,
+                        "budget": 1100000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1251,
+                        "projectPlanId": 248,
+                        "year": 2565,
+                        "budget": 254110000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1252,
+                        "projectPlanId": 248,
+                        "year": 2566,
+                        "budget": 1100000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1253,
+                        "projectPlanId": 248,
+                        "year": 2566,
+                        "budget": 459590000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1254,
+                        "projectPlanId": 248,
+                        "year": 2567,
+                        "budget": 100000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1255,
+                        "projectPlanId": 248,
+                        "year": 2567,
+                        "budget": 106760000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1256,
+                        "projectPlanId": 248,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 248,
+                "projectId": 180,
+                "createdAt": "2020-02-24 13:19:26",
+                "createdBy": 321,
+                "updatedAt": "2020-02-24 14:54:30",
+                "updatedBy": 321,
+                "planConfigId": 3,
+                "coordinatorName": "ณัฐกมล จันทร์กลิ่น",
+                "coordinatorPosition": "นักการเงิน 7",
+                "coordinatorTel": "022563362",
+                "coordinatorMail": "nutkamon@mea.or.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 180,
+                "name": "แผนงานเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน ปี 2551 - 2556 (ฉบับปรับปรุง)",
+                "provinceCode": "10000000",
+                "agencyId": 401,
+                "directorName": "คุณณัฐกมล จันทร์กลิ่น",
+                "directorPosition": "นักการเงิน 7",
+                "background": "กฟน. มีหน้าที่จัดจำหน่ายพลังไฟฟ้าในบริเวณพื้นที่กรุงเทพมหานคร นนทบุรี  และสมุทรปราการ ได้พัฒนาและขยายระบบจำหน่ายพลังไฟฟ้าให้มีความเพียงพอและมีความเชื่อถือได้อย่างต่อเนื่อง รวมไปถึงการคำนึงถึงความปลอดภัย และการสร้างทัศนียภาพของบ้านเมืองให้เจริญตาน่าอยู่ทัดเทียมกับอารยประเทศ จึงได้จัดทำแผนงานเปลี่ยนระบบไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน ซึ่งถือว่าเป็นโครงการตอบแทนคืนสู่สังคม",
+                "goal": "ดำเนินการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน 3 โครงการ ได้แก่ โครงการปทุมวัน จิตรลดา และพญาไทเพิ่มเติม ระยะทาง 6 กม. โครงการนนนทรี ระยะทาง 8.3 กม. และโครงการพระราม 3 ระยะทาง 10.9 กม. รวมระยะทางประมาณ 25.2 กม.",
+                "approvedAt": "2017-01-31 10:00:00",
+                "budget": 6661730000.0,
+                "sectorId": 0,
+                "startedAt": "2008-01-01",
+                "endedAt": "2023-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-17 22:42:00",
+                "updatedBy": 248,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน",
+                "projectArea": "1. โครงการปทุมวัน จิตรลดา และพญาไทเพิ่มเติม \n   ขอบเขตพื้นที่เปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดินเพิ่มเติม บริเวณถนนพระราม 1, ถนนโยธี, ถนนศรีอยุธยา, ถนนเพชรบุรี, \n   ถนนราชวิถี และถนนราชปรารภ ระยะทางประมาณ 6 กม.\n2. โครงการนนทรี \n   ขอบเขตพื้นที่เปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน บริเวณ ถ. นราธิวาสราชนครินทร์ ช่วงจาก ถ. พระราม 3 ถึง ถ.สุรวงศ์ และ \n   ถนนบริเวณใกล้เคียง ระยะทางประมาณ 8.3 กม.\n3. โครงการพระราม 3 \n   ขอบเขตพื้นที่เปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน เริ่มจาก ถ. พระราม 3 ช่วงจาก ถ. เลียบทางด่วนเฉลิม-มหานคร บริเวณเหนือ \n   ถ.นางลิ้นจี่ ถึง เชิงสะพานกรุงเทพฯ (ฝั่งพระนคร) และซอยแยก ถ. ตก ระยะทางประมาณ 10.9 กม.",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 180,
+            "currentProjectPlanId": 248,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2020-02-24 08:44:45",
+            "updatedBy": 248
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1266,
+                        "projectPlanId": 250,
+                        "year": 2564,
+                        "budget": 300000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1267,
+                        "projectPlanId": 250,
+                        "year": 2564,
+                        "budget": 299210000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1268,
+                        "projectPlanId": 250,
+                        "year": 2565,
+                        "budget": 1000000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1269,
+                        "projectPlanId": 250,
+                        "year": 2565,
+                        "budget": 199580000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1270,
+                        "projectPlanId": 250,
+                        "year": 2566,
+                        "budget": 1700000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1271,
+                        "projectPlanId": 250,
+                        "year": 2566,
+                        "budget": 95380000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1272,
+                        "projectPlanId": 250,
+                        "year": 2567,
+                        "budget": 700000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1273,
+                        "projectPlanId": 250,
+                        "year": 2567,
+                        "budget": 188210000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1274,
+                        "projectPlanId": 250,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 250,
+                "projectId": 181,
+                "createdAt": "2020-02-25 08:13:53",
+                "createdBy": 321,
+                "updatedAt": "2020-02-25 08:23:55",
+                "updatedBy": 321,
+                "planConfigId": 3,
+                "coordinatorName": "ณัฐกมล จันทร์กลิ่น",
+                "coordinatorPosition": "นักการเงิน 7",
+                "coordinatorTel": "022563362",
+                "coordinatorMail": "nutkamon@mea.or.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 181,
+                "name": "แผนงานเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน รัชดาภิเษก",
+                "provinceCode": "10000000",
+                "agencyId": 401,
+                "directorName": "คุณณัฐกมล จันทร์กลิ่น",
+                "directorPosition": "นักการเงิน 7",
+                "background": "กฟน. มีหน้าที่จัดจำหน่ายพลังไฟฟ้าในบริเวณพื้นที่กรุงเทพมหานคร นนทบุรี  และสมุทรปราการ ได้พัฒนาและขยายระบบจำหน่ายพลังไฟฟ้าให้มีความเพียงพอและมีความเชื่อถือได้อย่างต่อเนื่อง  รวมไปถึงการคำนึงถึงความปลอดภัย และการสร้างทัศนียภาพของบ้านเมืองให้เจริญตาน่าอยู่ทัดเทียมกับอารยประเทศ จึงได้จัดทำแผนงานเปลี่ยนระบบไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน  ซึ่งถือว่าเป็นโครงการตอบแทนคืนสู่สังคม",
+                "goal": "ดำเนินการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน 2 โครงการ ได้แก่ โครงการรัชดาภิเษก – อโศก และโครงการรัชดาภิเษก – พระราม 9  ระยะทางรวมประมาณ 22.5 กม.",
+                "approvedAt": "2013-10-14 17:00:00",
+                "budget": 6934560000.0,
+                "sectorId": 0,
+                "startedAt": "2013-01-01",
+                "endedAt": "2024-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-17 22:42:39",
+                "updatedBy": 248,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน",
+                "projectArea": "1. โครงการรัชดาภิเษก – อโศก \n   ขอบเขตพื้นที่เปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน เริ่มจาก ถ.รัชดาภิเษก ช่วงจากคลองสามเสน ถึง ถ.พระราม 4 ระยะทางประมาณ \n   8.2 กม.\n2. โครงการรัชดาภิเษก – พระราม 9\n   ขอบเขตพื้นที่เปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน บริเวณ ถ.รัชดาภิเษก ช่วงจาก ถ. ลาดพร้าว ถึงคลองสามเสน ระยะทางประมาณ   \n   14.3 กม.",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 181,
+            "currentProjectPlanId": 250,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1275,
+                        "projectPlanId": 251,
+                        "year": 2564,
+                        "budget": 1800000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1276,
+                        "projectPlanId": 251,
+                        "year": 2564,
+                        "budget": 814440000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1277,
+                        "projectPlanId": 251,
+                        "year": 2565,
+                        "budget": 5200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1278,
+                        "projectPlanId": 251,
+                        "year": 2565,
+                        "budget": 512470000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1279,
+                        "projectPlanId": 251,
+                        "year": 2566,
+                        "budget": 5700000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1280,
+                        "projectPlanId": 251,
+                        "year": 2566,
+                        "budget": 1485070000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1281,
+                        "projectPlanId": 251,
+                        "year": 2567,
+                        "budget": 4600000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1282,
+                        "projectPlanId": 251,
+                        "year": 2567,
+                        "budget": 1772150000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1283,
+                        "projectPlanId": 251,
+                        "year": 2568,
+                        "budget": 3000000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1284,
+                        "projectPlanId": 251,
+                        "year": 2568,
+                        "budget": 1173810000.0,
+                        "sourceOfFundId": 4
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 251,
+                "projectId": 182,
+                "createdAt": "2020-02-25 08:26:31",
+                "createdBy": 321,
+                "updatedAt": "2020-02-25 08:33:26",
+                "updatedBy": 321,
+                "planConfigId": 3,
+                "coordinatorName": "ณัฐกมล จันทร์กลิ่น",
+                "coordinatorPosition": "นักการเงิน 7",
+                "coordinatorTel": "022563362",
+                "coordinatorMail": "nutkamon@mea.or.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 182,
+                "name": "แผนงานเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดินเพื่อรองรับการเป็นมหานครแห่งอาเซียน                     ",
+                "provinceCode": "10000000",
+                "agencyId": 401,
+                "directorName": "คุณณัฐกมล จันทร์กลิ่น",
+                "directorPosition": "นักการเงิน 7",
+                "background": "กฟน. มีหน้าที่จัดจำหน่ายพลังไฟฟ้าในบริเวณพื้นที่กรุงเทพมหานคร นนทบุรี  และสมุทรปราการ ได้พัฒนาและขยายระบบจำหน่ายพลังไฟฟ้าให้มีความเพียงพอและมีความเชื่อถือได้อย่างต่อเนื่อง รวมไปถึงการคำนึงถึงความปลอดภัย และการสร้างทัศนียภาพของบ้านเมืองให้เจริญตาน่าอยู่ทัดเทียมกับอารยประเทศ จึงได้จัดทำแผนงานเปลี่ยนระบบไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน ซึ่งถือว่าเป็นโครงการตอบแทนคืนสู่สังคม",
+                "goal": "ดำเนินการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน 39 เส้นทาง ระยะทางรวมประมาณ 127.3 กม.",
+                "approvedAt": "2015-08-31 17:00:00",
+                "budget": 47926360000.0,
+                "sectorId": 0,
+                "startedAt": "2015-01-01",
+                "endedAt": "2029-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-17 22:43:33",
+                "updatedBy": 248,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": null,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน",
+                "projectArea": "1. เขตพื้นที่เมืองชั้นในและศูนย์กลางเขตธุรกิจของ กทม. จำนวน 7 เส้นทาง ระยะทางประมาณ 12.6 กม.\n2. พื้นที่เชื่อมโยงระบบส่งระหว่างสถานีไฟฟ้าต้นทาง เพื่อสนับสนุนพื้นที่เมืองชั้นในและศูนย์กลางธุรกิจ จำนวน 3 เส้นทาง ระยะทางประมาณ 7.4 กม.\n3. พื้นที่เปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดินร่วมกับหน่วยงานสาธารณูปโภคอื่น จำนวน 29 เส้นทาง ระยะทางประมาณ 107.3 กม.",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 182,
+            "currentProjectPlanId": 251,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1257,
+                        "projectPlanId": 249,
+                        "year": 2564,
+                        "budget": 200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1258,
+                        "projectPlanId": 249,
+                        "year": 2564,
+                        "budget": 151910000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1259,
+                        "projectPlanId": 249,
+                        "year": 2565,
+                        "budget": 200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1260,
+                        "projectPlanId": 249,
+                        "year": 2565,
+                        "budget": 92700000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1261,
+                        "projectPlanId": 249,
+                        "year": 2566,
+                        "budget": 200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1262,
+                        "projectPlanId": 249,
+                        "year": 2566,
+                        "budget": 177830000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1263,
+                        "projectPlanId": 249,
+                        "year": 2567,
+                        "budget": 100000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1264,
+                        "projectPlanId": 249,
+                        "year": 2567,
+                        "budget": 163950000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1265,
+                        "projectPlanId": 249,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 249,
+                "projectId": 189,
+                "createdAt": "2020-02-24 14:22:13",
+                "createdBy": 321,
+                "updatedAt": "2020-02-25 08:13:03",
+                "updatedBy": 321,
+                "planConfigId": 3,
+                "coordinatorName": "ณัฐกมล จันทร์กลิ่น",
+                "coordinatorPosition": "นักการเงิน 7",
+                "coordinatorTel": "022563362",
+                "coordinatorMail": "nutkamon@mea.or.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 189,
+                "name": "แผนปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า ฉบับที่ 11 ปี 2555 -  2559 (ฉบับปรับปรุง)                         ",
+                "provinceCode": "10000000",
+                "agencyId": 401,
+                "directorName": "คุณณัฐกมล จันทร์กลิ่น",
+                "directorPosition": "นักการเงิน 7",
+                "background": "แผนปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้าเป็นแผนงานหลักของ กฟน. ในการให้บริการความต้องการใช้ไฟฟ้าที่เพิ่มขึ้นในเขตจำหน่าย เสริมความมั่นคง และความเชื่อถือได้ของระบบไฟฟ้า รองรับยุทธศาสตร์ของ กฟน. ในประเด็นยกระดับคุณภาพระบบไฟฟ้าสู่ความเป็นเลิศ ระบบไฟฟ้ามีคุณภาพเทียบเท่าระดับสากล",
+                "goal": "ปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า รวม 5 งาน คือ \n1. งานพัฒนาระบบสถานีต้นทางและสถานีย่อย \n2. งานพัฒนาระบบสายส่งพลังไฟฟ้า\n3. งานพัฒนาระบบจ่ายไฟฟ้าแรงดันกลางและต่ำ\n4. งานเปลี่ยนแรงดันไฟฟ้า จาก 12 เป็น 24 เควี\n5. งานเพิ่มประสิทธิภาพในการจ่ายไฟฟ้า",
+                "approvedAt": "2015-12-22 17:00:00",
+                "budget": 50123900000.0,
+                "sectorId": 0,
+                "startedAt": "2012-01-01",
+                "endedAt": "2022-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-17 22:45:49",
+                "updatedBy": 248,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า",
+                "projectArea": "กรุงเทพฯ นนทบุรี สมุทรปราการ",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 189,
+            "currentProjectPlanId": 249,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1285,
+                        "projectPlanId": 252,
+                        "year": 2564,
+                        "budget": 8900000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1286,
+                        "projectPlanId": 252,
+                        "year": 2565,
+                        "budget": 9700000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1287,
+                        "projectPlanId": 252,
+                        "year": 2566,
+                        "budget": 5800000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1288,
+                        "projectPlanId": 252,
+                        "year": 2567,
+                        "budget": 4100000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1289,
+                        "projectPlanId": 252,
+                        "year": 2568,
+                        "budget": 2000000000.0,
+                        "sourceOfFundId": 1
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 252,
+                "projectId": 190,
+                "createdAt": "2020-02-25 08:56:37",
+                "createdBy": 321,
+                "updatedAt": null,
+                "updatedBy": null,
+                "planConfigId": 3,
+                "coordinatorName": null,
+                "coordinatorPosition": null,
+                "coordinatorTel": null,
+                "coordinatorMail": null,
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 190,
+                "name": "แผนปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า ฉบับที่ 12 ปี 2560 -  2564                                               ",
+                "provinceCode": "10000000",
+                "agencyId": 401,
+                "directorName": "คุณณัฐกมล จันทร์กลิ่น",
+                "directorPosition": "นักการเงิน 7",
+                "background": "แผนปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้าเป็นแผนงานหลักของ กฟน. ในการให้บริการความต้องการใช้ไฟฟ้าที่เพิ่มขึ้นในเขตจำหน่าย เสริมความมั่นคง และความเชื่อถือได้ของระบบไฟฟ้า รองรับยุทธศาสตร์ของ กฟน. ในประเด็นยกระดับคุณภาพระบบไฟฟ้าสู่ความเป็นเลิศ ระบบไฟฟ้ามีคุณภาพเทียบเท่าระดับสากล",
+                "goal": "ปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า รวม 5 งาน คือ \n1. งานพัฒนาระบบสถานีต้นทางและสถานีย่อย \n2. งานพัฒนาระบบสายส่งพลังไฟฟ้า\n3. งานพัฒนาระบบจ่ายไฟฟ้าแรงดันกลางและต่ำ\n4. งานเปลี่ยนแรงดันไฟฟ้า จาก 12 เป็น 24 เควี\n5. งานเพิ่มประสิทธิภาพในการจ่ายไฟฟ้า",
+                "approvedAt": "2017-02-27 17:00:00",
+                "budget": 84242930000.0,
+                "sectorId": 0,
+                "startedAt": "2017-01-01",
+                "endedAt": "2026-12-30",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-18 08:05:29",
+                "updatedBy": 248,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": null,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า",
+                "projectArea": "กรุงเทพฯ นนทบุรี สมุทรปราการ",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 190,
+            "currentProjectPlanId": 252,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1290,
+                        "projectPlanId": 253,
+                        "year": 2564,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1291,
+                        "projectPlanId": 253,
+                        "year": 2565,
+                        "budget": 4000000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1292,
+                        "projectPlanId": 253,
+                        "year": 2565,
+                        "budget": 843290000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1293,
+                        "projectPlanId": 253,
+                        "year": 2566,
+                        "budget": 8100000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1294,
+                        "projectPlanId": 253,
+                        "year": 2566,
+                        "budget": 482400000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1295,
+                        "projectPlanId": 253,
+                        "year": 2567,
+                        "budget": 10000000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1296,
+                        "projectPlanId": 253,
+                        "year": 2567,
+                        "budget": 4216340000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1297,
+                        "projectPlanId": 253,
+                        "year": 2568,
+                        "budget": 13200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1298,
+                        "projectPlanId": 253,
+                        "year": 2568,
+                        "budget": 7063880000.0,
+                        "sourceOfFundId": 4
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 253,
+                "projectId": 191,
+                "createdAt": "2020-02-25 09:17:38",
+                "createdBy": 321,
+                "updatedAt": null,
+                "updatedBy": null,
+                "planConfigId": 3,
+                "coordinatorName": null,
+                "coordinatorPosition": null,
+                "coordinatorTel": null,
+                "coordinatorMail": null,
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 191,
+                "name": "แผนปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า ฉบับที่ 13 ปี 2565 -  2569                                          ",
+                "provinceCode": "10000000",
+                "agencyId": 401,
+                "directorName": "คุณณัฐกมล จันทร์กลิ่น",
+                "directorPosition": "นักการเงิน 7",
+                "background": "แผนปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้าเป็นแผนงานหลักของ กฟน. ในการให้บริการความต้องการใช้ไฟฟ้าที่เพิ่มขึ้นในเขตจำหน่าย เสริมความมั่นคง และความเชื่อถือได้ของระบบไฟฟ้า รองรับยุทธศาสตร์ของ กฟน. ในประเด็นยกระดับคุณภาพระบบไฟฟ้าสู่ความเป็นเลิศ ระบบไฟฟ้ามีคุณภาพเทียบเท่าระดับสากล",
+                "goal": "ปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า รวม 4 งาน คือ \n1. งานพัฒนาระบบสถานีต้นทางและสถานีย่อย \n2. งานพัฒนาระบบสายส่งพลังไฟฟ้า\n3. งานพัฒนาระบบจ่ายไฟฟ้าแรงดันกลางและต่ำ\n4. งานเพิ่มประสิทธิภาพในการจ่ายไฟฟ้า",
+                "approvedAt": null,
+                "budget": 98911323000.0,
+                "sectorId": 0,
+                "startedAt": "2022-01-01",
+                "endedAt": "2026-12-30",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-18 08:09:14",
+                "updatedBy": 248,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": null,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการปรับปรุงและขยายระบบจำหน่ายพลังไฟฟ้า",
+                "projectArea": "กรุงเทพฯ นนทบุรี สมุทรปราการ",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 191,
+            "currentProjectPlanId": 253,
+            "createdAt": "2020-02-25 09:02:04",
+            "createdBy": 321,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1217,
+                        "projectPlanId": 246,
+                        "year": 2564,
+                        "budget": 1000000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1218,
+                        "projectPlanId": 246,
+                        "year": 2565,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1219,
+                        "projectPlanId": 246,
+                        "year": 2566,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1220,
+                        "projectPlanId": 246,
+                        "year": 2567,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1221,
+                        "projectPlanId": 246,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 246,
+                "projectId": 241,
+                "createdAt": "2020-02-19 15:10:31",
+                "createdBy": 275,
+                "updatedAt": null,
+                "updatedBy": null,
+                "planConfigId": 3,
+                "coordinatorName": null,
+                "coordinatorPosition": null,
+                "coordinatorTel": null,
+                "coordinatorMail": null,
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50601",
+                    "name": "การประปานครหลวง",
+                    "isActive": true,
+                    "id": 407,
+                    "ministryId": 25,
+                    "sId": "S601",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 241,
+                "name": "โครงการปรับปรุงกิจการประปาแผนหลัก ครั้งที่ 9",
+                "provinceCode": "00000000",
+                "agencyId": 407,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "การประปานครหลวง (กปน.) มีภารกิจหลักในการผลิต-จัดส่ง บริการน้ำประปาที่มีคุณภาพเพื่อให้เพียงพอกับความต้องการใช้น้ำแก่ประชาชนในเขตพื้นที่รับผิดชอบของกรุงเทพมหานคร จังหวัดนนทบุรี และจังหวัดสมุทรปราการ ซึ่งปัจจุบัน กปน. มีความสามารถในการผลิตน้ำประปารวมประมาณ 6.32 ล้าน ลบ.ม.ต่อวัน รองรับประชากรประมาณ 11.6 ล้านคน เนื่องด้วยสภาพการณ์ในปัจจุบันที่มีการเปลี่ยนแปลงตามสภาวการณ์ทางธรรมชาติ การใช้น้ำภาคเกษตรกรรมที่มีปริมาณเพิ่มขึ้น ประกอบกับโครงสร้างพื้นฐานที่มีอายุการใช้งานมาอย่างต่อเนื่องเป็นเวลานานมากกว่า30 ปี และไม่มีการสำรองระบบของการผลิตน้ำครบถ้วน ในขณะเดียวกัน ปริมาณความต้องการใช้น้ำของผู้ใช้น้ำมีความต้องการเพิ่มสูงขึ้นอย่างต่อเนื่อง ซึ่งเป็นไปตามการพัฒนาและการเจริญเติบโตของเมือง ประกอบกับประเทศไทยกำลังเข้าสู่ประชาคมอาเซียน ด้วยเหตุผลความจำเป็นดังกล่าว กปน. จึงจัดเตรียมดำเนินงานปรับปรุงโครงการกิจการประปาแผนหลักครั้งที่ 9 ซึ่งจะเป็นการมุ่งเน้นงานระบบประปาเพื่อสร้างความยั่งยืนและเสถียรภาพของระบบน้ำดิบ ระบบผลิตน้ำ ระบบส่งน้ำ และระบบจ่ายน้ำของ กปน. ให้เกิดความมั่นคงและรองรับกับสถานการณ์/วิกฤตการณ์ต่าง ๆ ที่จะเกิดขึ้นในอนาคตได้ทันท่วงที ยกระดับการให้บริการที่เป็นเลิศ ลดความเสี่ยงที่อาจจะเกิดขึ้น และระบบการสูบส่ง-สูบจ่ายที่มีความมั่นคงและเสถียรภาพมากยิ่งขึ้น",
+                "goal": "ขยายกำลังการผลิตน้ำที่โรงงานผลิตน้ำมหาสวัสดิ์ เพิ่มสถานีสูบจ่ายน้ำแห่งใหม่ (บางมด) พร้อมระบบงานอื่นที่เกี่ยวข้อง, ก่อสร้างเพิ่ม/ขยายถังเก็บน้ำใสตามสถานีสูบจ่ายน้ำต่าง ๆ, สร้างระบบอุโมงค์ส่งน้ำทางฝั่งตะวันตก, เพิ่มเครื่องสูบน้ำตามสถานีสูบน้ำต่าง ๆ จำนวน 15 เครื่องตามโรงงานผลิตน้ำ, เพิ่มประสิทธิภาพระบบจ่ายน้ำโดยการปรับเปลี่ยน/วางท่อประปาขนาดต่าง ๆ",
+                "approvedAt": null,
+                "budget": 42750000000.0,
+                "sectorId": 0,
+                "startedAt": "2016-10-04",
+                "endedAt": "2022-09-30",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2018-02-12 15:49:24",
+                "createdBy": 2,
+                "updatedAt": "2018-04-18 12:34:49",
+                "updatedBy": 247,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการปรับปรุงกิจการประปาแผนหลัก",
+                "projectArea": "กรุงเทพมหานคร สมุทรปราการ และ นนทบุรี",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 241,
+            "currentProjectPlanId": 246,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1222,
+                        "projectPlanId": 247,
+                        "year": 2564,
+                        "budget": 123186486.07999998,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1223,
+                        "projectPlanId": 247,
+                        "year": 2564,
+                        "budget": 117500000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1224,
+                        "projectPlanId": 247,
+                        "year": 2565,
+                        "budget": 150116769.60000002,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1225,
+                        "projectPlanId": 247,
+                        "year": 2565,
+                        "budget": 146400000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1226,
+                        "projectPlanId": 247,
+                        "year": 2566,
+                        "budget": 206496122.0,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1227,
+                        "projectPlanId": 247,
+                        "year": 2566,
+                        "budget": 125500000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1228,
+                        "projectPlanId": 247,
+                        "year": 2567,
+                        "budget": 270446670.76,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1229,
+                        "projectPlanId": 247,
+                        "year": 2567,
+                        "budget": 180500000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1230,
+                        "projectPlanId": 247,
+                        "year": 2568,
+                        "budget": 336682616.20000005,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1231,
+                        "projectPlanId": 247,
+                        "year": 2568,
+                        "budget": 210000000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1232,
+                        "projectPlanId": 247,
+                        "year": 2563,
+                        "budget": 15233534.4,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1233,
+                        "projectPlanId": 247,
+                        "year": 2563,
+                        "budget": 665600000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1234,
+                        "projectPlanId": 247,
+                        "year": 2569,
+                        "budget": 382861582.32,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1235,
+                        "projectPlanId": 247,
+                        "year": 2569,
+                        "budget": 196250000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1236,
+                        "projectPlanId": 247,
+                        "year": 2570,
+                        "budget": 393235196.48,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1237,
+                        "projectPlanId": 247,
+                        "year": 2570,
+                        "budget": 151250000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1238,
+                        "projectPlanId": 247,
+                        "year": 2571,
+                        "budget": 351807626.52,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1239,
+                        "projectPlanId": 247,
+                        "year": 2571,
+                        "budget": 101500000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1240,
+                        "projectPlanId": 247,
+                        "year": 2572,
+                        "budget": 288865180.24,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1241,
+                        "projectPlanId": 247,
+                        "year": 2572,
+                        "budget": 64500000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1242,
+                        "projectPlanId": 247,
+                        "year": 2573,
+                        "budget": 120833106.79999998,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1243,
+                        "projectPlanId": 247,
+                        "year": 2573,
+                        "budget": 30750000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1244,
+                        "projectPlanId": 247,
+                        "year": 2574,
+                        "budget": 1755108.6,
+                        "sourceOfFundId": 2
+                    },
+                    {
+                        "id": 1245,
+                        "projectPlanId": 247,
+                        "year": 2574,
+                        "budget": 5250000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1246,
+                        "projectPlanId": 247,
+                        "year": 2575,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1247,
+                        "projectPlanId": 247,
+                        "year": 2562,
+                        "budget": 5000000.0,
+                        "sourceOfFundId": 3
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 247,
+                "projectId": 10511,
+                "createdAt": "2020-02-20 10:27:44",
+                "createdBy": 319,
+                "updatedAt": "2020-02-20 13:38:40",
+                "updatedBy": 319,
+                "planConfigId": 3,
+                "coordinatorName": "วสุพล รุ่งธนาภิรมย์",
+                "coordinatorPosition": "นักวิชาการ สถาบันส่งเสริมการสอนวิทยาศาสตร์และเทคโนโลยี",
+                "coordinatorTel": "023924021 ต่อ 5425",
+                "coordinatorMail": "wrung@ipst.ac.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "20000",
+                    "code": "20004",
+                    "name": "สำนักงานคณะกรรมการการศึกษาขั้นพื้นฐาน",
+                    "isActive": false,
+                    "id": 204,
+                    "ministryId": 18,
+                    "sId": null,
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 27,
+                    "name": "ศึกษา",
+                    "level": 1,
+                    "parentId": 26,
+                    "isActive": true
+                },
+                "id": 10511,
+                "name": "โครงการพัฒนากำลังคนด้านวิศวกรรมศาสตร์ เทคโนโลยีและนวัตกรรมสนับสนุนการลงทุนและเพิ่มขีดความสามารถภาคอุตสาหกรรมในประเทศและภูมิภาค",
+                "provinceCode": "00000000",
+                "agencyId": 204,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "ตามที่รัฐบาลมีนโยบายสำคัญในการพัฒนาปรเทศไทยไปสู่ Thailand 4.0 เพื่อพัฒนาภาคอุตสาหกรรมของประเทศในการขับเคลื่อนเศรษฐกิจทั้งระบบ โดยสถานะการณืในประเทศไทยในปัจจุบันต้องเผชิญกับกระแสโลกที่มีการเปลี่ยนแปลงอย่างรวดเร็ว รุนแรง และซับซ้อนมากยิ่งขึ้น รวมทั้งได้สร้างสภาพแวดล้อมทางเศรษฐกิจของโลกแบบใหม่ในศตวรรษที่ 21 ที่ประชากรเป็นทรัพยากรที่สำคัญที่สุดในการแข่งขันในโลกเศรษฐกิจสมัยใหม่ เพราะประชากรเป็นผู้ใช้เทคโนโลยีและวิทยาการสมัยใหม่ ประกอบกับการเปิดประชาคมอาเซียนเมื่อปี 2558 ซึ่งมีการเปิดเสรีในการเคลื่อนย้ายแรงงาน ส่งผลให้ประเทศไทยต้องเตรียมพร้อมในแก่กำลังคนและพัฒนากำลังคนของประเทศในสามารถปรับตัว รองรับผลจากการเปลี่ยนแปลงได้อย่างเหมาะสม",
+                "goal": "สามารถผลิตกำลังคนด้านวิศวกรรมศาสต์ ทั้งในส่วนของนักเรียนนักศึกษา และอาจารย์ ได้จำนวนทั้งหมด\n1152 คน และจัดตั้งสถาบันไทยโคเซ็นให้เป็นสถาบันการศึกษาทางวิศวกรรมศาสตร์ที่ได้มาตรฐานในการผลิตกำลังคนต่อไปในอนาคต",
+                "approvedAt": null,
+                "budget": 4700000000.0,
+                "sectorId": 27,
+                "startedAt": "2019-03-01",
+                "endedAt": "2032-04-30",
+                "isPlanLocked": true,
+                "importContent": 0.0,
+                "createdAt": "2019-01-11 15:13:19",
+                "createdBy": 2,
+                "updatedAt": "2020-02-24 15:26:10",
+                "updatedBy": 394,
+                "isOnGoing": true,
+                "idRef": null,
+                "flagTypeId": "GIP",
+                "kindTypeId": "P01",
+                "operationTypeCode": "F01",
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": false,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "1 เป็นการให้ทุนการศึกษาให้กับนักเรียนมัธยมศึกษาตอนปลาย เพื่อศึกษาต่อในหลักสูตร KOSEN ของประเทศญี่ปุ่น โดยเป็นการให้ทุนศึกษาต่อทั้งภายในและภายนอกประเทศ\n2 สร้างสถาบันไทยโคเซ็น และพัฒนาหลักสูตรรองรับการผลิตกำลังคนทางด้านวิศวกรรมศาสตร์ เทคโนโลยีและนวัตกรรม",
+                "projectArea": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง และมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 10511,
+            "currentProjectPlanId": 247,
+            "createdAt": "2020-02-20 09:37:30",
+            "createdBy": 319,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1182,
+                        "projectPlanId": 239,
+                        "year": 2564,
+                        "budget": 6700000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1183,
+                        "projectPlanId": 239,
+                        "year": 2565,
+                        "budget": 9200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1184,
+                        "projectPlanId": 239,
+                        "year": 2566,
+                        "budget": 8300000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1185,
+                        "projectPlanId": 239,
+                        "year": 2567,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1186,
+                        "projectPlanId": 239,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 239,
+                "projectId": 20542,
+                "createdAt": "2020-02-06 14:52:59",
+                "createdBy": 323,
+                "updatedAt": "2020-02-06 15:01:13",
+                "updatedBy": 394,
+                "planConfigId": 3,
+                "coordinatorName": "ศศิธยาน์ วรวิกยานนท์",
+                "coordinatorPosition": "รักษาการผู้อำนวยการฝ่ายการเงิน",
+                "coordinatorTel": "0 2142 2339 ",
+                "coordinatorMail": "sasithaya@dad.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50902",
+                    "name": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
+                    "isActive": true,
+                    "id": 540,
+                    "ministryId": 25,
+                    "sId": "S904",
+                    "startDate": "2018-03-28",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 31,
+                    "name": "อื่นๆ",
+                    "level": 0,
+                    "parentId": 31,
+                    "isActive": true
+                },
+                "id": 20542,
+                "name": "โครงการพัฒนาพื้นที่ส่วนขยายศูนย์ราชการฯ โซนซี",
+                "provinceCode": "10000000",
+                "agencyId": 540,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "การประชุมคณะกรรมการอำนวยการจัดระบบศูนย์ราชการ(กศร.) ครั้งที่ 1/2560 วันที่ 13 กันยายน 2560 ที่ประชุมมีมติมอบให้ ธพส. จัดทำแผนแม่บทการพัฒนาและรายละเอียดโครงการเพื่อเสนอขออนุมัติโครงการตามขั้นตอนต่อไป จากนั้น ธพส. ได้เสนอขออนุมัติแผนแม่บทโครงการฯ ประกอบด้วย แผนการลงทุน แผนการดำเนินงาน แผนการรองรับด้านการจราจร และแผนการเงิน โดยกระทรวงการคลัง (กรมธนารักษ์) ได้ส่งแผนแม่บทให้สำนักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ ( สศช.) พิจารณา และ สศช. ได้มีมติเมื่อวันที่ 4 เมษายน 2561 เห็นชอบในหลักการแผนแม่บทโครงการฯ จากนั้นในการประชุม ครม. เมื่อวันที่ 26 พฤศจิกายน 2561 มีมติอนุมัติในหลักการโครงการฯ ตามที่กระทรวงการคลังเสนอ",
+                "goal": "เพื่อให้ได้อาคารสำนักงานศูนย์ราชการฯและเป็นอาคารอนุรักษ์พลังงาน ตามเกณฑ์การประเมินความยั่งยืนทางพลังงานและสิ่งแวดล้อมไทย รวมทั้งใช้ประโยชน์จากที่ดินภายในศูนย์ราชการฯ ให้เต็มศักยภาพและเกิดประโยชน์สูงสุดบนพื้นที่ 81 ไร่เศษ และเป็นอาคารที่มีความสะดวกในการให้บริการประชาชนผู้มาติดต่อราชการในรูปแบบ One Stop Service เพิ่มประสิทธิภาพการบริการประชาชนทุกภาคส่วนของสังคมให้ได้รับความสะดวก รวมถึงเพื่อลดงบประมาณค่าเช่าอาคารเอกชนของหน่วยงานภาครัฐ ที่มีสถานที่ทำงานไม่เพียงพอ หรือไม่มีพื้นที่เป็นของตัวเอง ทำให้ต้องเช่าอาคารสำนักงานของภาคเอกชน",
+                "approvedAt": null,
+                "budget": 30000000000.0,
+                "sectorId": 31,
+                "startedAt": "2019-05-01",
+                "endedAt": "2023-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2019-03-06 16:28:06",
+                "createdBy": 2,
+                "updatedAt": "2020-02-24 15:25:02",
+                "updatedBy": 394,
+                "isOnGoing": true,
+                "idRef": null,
+                "flagTypeId": "GIP",
+                "kindTypeId": "P01",
+                "operationTypeCode": "F01",
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": false,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการพัฒนาพื้นที่ส่วนขยายศูนย์ราชการฯ พื้นที่โซน C ออกแบบตามแผนปฏิบัติการเชิงนโยบายด้านการจัดการพื้นที่สีเขียวชุมชนเมืองอย่างยั่งยืน และกฎหมายที่เกี่ยวข้อง รวมทั้งให้หน่วยงานราชการที่มีภารกิจการทำงานเกี่ยวเนื่องกันให้อยู่บริเวณใกล้เคียงกัน หน่วยงานสามารถบริหารและดูแลรักษาพื้นที่ที่ใช้ประโยชน์ตามแนวคิด Vertical Management System หรือระบบการบริหารแบบแนวตั้ง มีข้อดีเนื่องจากมีประสิทธิภาพในการควบคุมความปลอดภัยและการบำรุงรักษาพื้นที่ที่มีขอบเขตชัดเจน โดยมีองค์ประกอบของโครงการ ดังนี้\n1)\tพัฒนาพื้นที่ส่วนขยายโซน C เพื่อจัดสรรเป็นอาคารสำนักงานของส่วนราชการโดยมีขนาดที่ดินประมาณ 81 ไร่ เศษ มีชั้นใต้ดิน 2 ชั้น พื้นที่ก่อสร้างอาคารประมาณ 660,000 ตารางเมตร\n2)\tปรับปรุงพื้นที่สำนักงานในศูนย์ราชการฯ ส่วนที่มีหน่วยงานย้ายออกเพื่อรองรับหน่วยงานที่จะเข้าใช้พื้นที่ทดแทน\n3)\tปรับปรุงพื้นที่ทั้งภายใน ภายนอกอาคาร และงานภูมิสถาปัตยกรรม รวมทั้งระบบคมนาคม ระบบสาธารณูปโภค และระบบที่เกี่ยวข้อง ภายในพื้นที่ศูนย์ฯ โซน A,B เพื่อการเพิ่มประสิทธิภาพของอาคาร \n4)\tออกแบบพื้นที่หน่วยงานให้สอดคล้องตามลักษณะการใช้ประโยชน์ และระเบียบที่เกี่ยวข้อง",
+                "projectArea": "ดำเนินการพัฒนาพื้นที่ส่วนขยายศูนย์ราชการเฉลิมพระเกียรติ 80 พรรษา 5 ธันวาคม 2550   พื้นที่ โซน C  บนที่ราชพัสดุแปลงหมายเลขทะเบียนที่ กท.0493 ( บางส่วน ) โฉนดที่ดินเลขที่ 279 แขวงทุ่งสองห้อง  เขตหลักสี่  กรุงเทพมหานคร",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 20542,
+            "currentProjectPlanId": 239,
+            "createdAt": "2019-09-21",
+            "createdBy": 2,
+            "updatedAt": "2019-09-21",
+            "updatedBy": 2
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1308,
+                        "projectPlanId": 255,
+                        "year": 2564,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1309,
+                        "projectPlanId": 255,
+                        "year": 2565,
+                        "budget": 646080000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1310,
+                        "projectPlanId": 255,
+                        "year": 2565,
+                        "budget": 137330000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1311,
+                        "projectPlanId": 255,
+                        "year": 2566,
+                        "budget": 3876500000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1312,
+                        "projectPlanId": 255,
+                        "year": 2566,
+                        "budget": 206000000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1313,
+                        "projectPlanId": 255,
+                        "year": 2567,
+                        "budget": 3230420000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1314,
+                        "projectPlanId": 255,
+                        "year": 2567,
+                        "budget": 68670000.0,
+                        "sourceOfFundId": 3
+                    },
+                    {
+                        "id": 1315,
+                        "projectPlanId": 255,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 255,
+                "projectId": 20590,
+                "createdAt": "2020-03-04 03:05:52",
+                "createdBy": 4480,
+                "updatedAt": null,
+                "updatedBy": null,
+                "planConfigId": 3,
+                "coordinatorName": null,
+                "coordinatorPosition": null,
+                "coordinatorTel": null,
+                "coordinatorMail": null,
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "08000",
+                    "code": "50301",
+                    "name": "การทางพิเศษแห่งประเทศไทย",
+                    "isActive": true,
+                    "id": 373,
+                    "ministryId": 8,
+                    "sId": "S301",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "20000000",
+                    "name": "ชลบุรี",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 0,
+                    "name": "ไม่ระบุ",
+                    "level": 0,
+                    "parentId": 0,
+                    "isActive": true
+                },
+                "id": 20590,
+                "name": "โครงการทางเชื่อมต่อทางพิเศษบูรพาวิถีและถนนเลี่ยงเมืองชลบุรี",
+                "provinceCode": "20000000",
+                "agencyId": 373,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "โครางการทางเชื่อมต่อทางพิเศษบูรพาวิถีและถนนเลี่ยงเมืองชลบุรีมีวัตถุประสงค์ในการบรรเทาปัญหาการจราจรติดขัดบนถนนสุขุมวิทบริเวณด้านหน้านิคมอุตสาหกรรมอมตะนครโดยการลดปริมาณรถที่ลงจากทางพิเศษบูรพาวิถีเพื่อไปยังถนนเลี่ยงเมืองชลบุรี ซึ่งจะทำให้ปริมาณรถที่มาจากทางพิเศษบูรพาวิถีที่ต้องการไปยังถนนเลี่ยงเมืองชลบุรีสามารถไปลงยังถนนเลี่ยงเมืองชลบุรีได้โดยตรง อีกทั้งเป็นโครงข่ายที่อำนวยความสะดวกในการเชื่อมต่อการเดินทางไปยังทางหลวงพิเศษหมายเลข 7 เพื่อไปยังท่าเรือแหลมฉบัง",
+                "goal": "สามารถเปิดให้บริการในปีงบประมาณ 2567",
+                "approvedAt": null,
+                "budget": 8165000000.0,
+                "sectorId": 0,
+                "startedAt": "2021-05-01",
+                "endedAt": "2023-10-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2019-03-13 11:36:54",
+                "createdBy": 317,
+                "updatedAt": "2020-02-18 15:57:57",
+                "updatedBy": 415,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการทางเชื่อมต่อทางพิเศษบูรพาวิถีและถนนเลี่ยงเมืองชลบุรี เป็นทางยกระดับขนาด 4 ช่องจราจร (ทิศทางละ 2 ช่องจราจร) ไปตามแนวเกาะกลางของถนนสุขุมวิท (ทางหลวงแผ่นดินหมายเลข 3) และถนนเลี่ยงเมืองชลบุรี (ทางหลวงแผ่นดินหมายเลข 361)",
+                "projectArea": "มีจุดเริ่มต้นโครงการเชื่อมต่อกับทางพิเศษบูรพาวิถี บริเวณด่านเก็บค่าผ่านทางชลบุรีใกล้กับนิคมอุตสาหกรรมอมตะนคร เป็นทางยกระดับขนาด 4 ช่องจราจร (ทิศทางละ 2 ช่องจราจร) ไปตามแนวเกาะกลางของถนนสุขุมวิท (ทางหลวงแผ่นดินหมายเลข 3) และถนนเลี่ยงเมืองชลบุรี (ทางหลวงแผ่นดินหมายเลข 361) โดยมีจุดสิ้นสุดทางหลักอยู่บริเวณทางแยกต่างระดับถนนเลี่ยงเมืองชลบุรี และถนนสุขุมวิทโดยมีทางขึ้น-ลง จำนวน 3 แห่ง ได้แก่ ทางขึ้น-ลงบนถนนเลี่ยงเมืองชลบุรี ทางขึ้น-ลงบนถนนสุขุมวิท และทางขึ้น-ลงบนถนนบ้านเก่า ระยะทาง 3.5 กิโลเมตร",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 20590,
+            "currentProjectPlanId": 255,
+            "createdAt": "2020-02-18 15:57:57",
+            "createdBy": 415,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1299,
+                        "projectPlanId": 254,
+                        "year": 2564,
+                        "budget": 200000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1300,
+                        "projectPlanId": 254,
+                        "year": 2564,
+                        "budget": 111430000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1301,
+                        "projectPlanId": 254,
+                        "year": 2565,
+                        "budget": 400000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1302,
+                        "projectPlanId": 254,
+                        "year": 2565,
+                        "budget": 180200000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1303,
+                        "projectPlanId": 254,
+                        "year": 2566,
+                        "budget": 1000000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1304,
+                        "projectPlanId": 254,
+                        "year": 2566,
+                        "budget": 384460000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1305,
+                        "projectPlanId": 254,
+                        "year": 2567,
+                        "budget": 800000000.0,
+                        "sourceOfFundId": 1
+                    },
+                    {
+                        "id": 1306,
+                        "projectPlanId": 254,
+                        "year": 2567,
+                        "budget": 325140000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1307,
+                        "projectPlanId": 254,
+                        "year": 2568,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 254,
+                "projectId": 20860,
+                "createdAt": "2020-02-25 09:22:12",
+                "createdBy": 321,
+                "updatedAt": "2020-02-25 09:25:52",
+                "updatedBy": 321,
+                "planConfigId": 3,
+                "coordinatorName": "ณัฐกมล จันทร์กลิ่น",
+                "coordinatorPosition": "นักการเงิน 7",
+                "coordinatorTel": "022563362",
+                "coordinatorMail": "nutkamon@mea.or.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50505",
+                    "name": "การไฟฟ้านครหลวง",
+                    "isActive": true,
+                    "id": 401,
+                    "ministryId": 25,
+                    "sId": "S505",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "00000000",
+                    "name": "_ส่วนกลาง",
+                    "isFlood": true,
+                    "flagGroup": 0,
+                    "provinceGroup": 0
+                },
+                "sector": {
+                    "id": 2,
+                    "name": "ไฟฟ้า",
+                    "level": 1,
+                    "parentId": 1,
+                    "isActive": true
+                },
+                "id": 20860,
+                "name": "แผนงานเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดินฉบับปฏิบัติการเร่งรัด (Quick Win)",
+                "provinceCode": "00000000",
+                "agencyId": 401,
+                "directorName": "",
+                "directorPosition": "",
+                "background": "ภาครัฐมีนโยบายให้ กฟน. ดำเนินการลงทุนโครงการสายไฟฟ้าใต้ดินในพื้นที่ที่มีความเหมาะสมให้เร็วขึ้น ซึ่ง กฟน. ได้สำรวจพื้นที่ที่มีความพร้อมในการก่อสร้าง เช่น มีท่อร้อยสายหลักที่ก่อสร้างร่วมกับโครงการรถไฟฟ้าไว้แล้ว ทำให้สามารถก่อสร้างระบบสายไฟฟ้าใต้ดินได้แล้วเสร็จภายใน 3 - 4 ปี พร้อมนี้จะต้องเป็นพื้นที่ที่มีแนวโน้มความต้องการใช้ไฟฟ้าเพิ่มขึ้นอย่างรวดเร็วและมีข้อจำกัดในการขยายระบบสายไฟฟ้าอากาศ",
+                "goal": "ดำเนินการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน 3 โครงการ ได้แก่ เส้นทางรถไฟฟ้าสายสีม่วง ถ.รัตนาธิเบศร์ (ถ.ราชพฤกษ์ – ถ.กาญจนาภิเษก) ระยะทาง 4.4 กม. , เส้นทางรถไฟฟ้าสายสีม่วง ถ.กรุงเทพ-นนทบุรี-ถ.ติวานนท์ ระยะทาง 10.6 กม. , เส้นทางรถไฟฟ้าสายสีเขียว ถ.สุขุมวิท (ซ.สุขุมวิท 81 – ซ.แบริ่ง) ระยะทาง 5.5 กม. รวมระยะทางประมาณ 20.5 กม.",
+                "approvedAt": null,
+                "budget": 136066000000.0,
+                "sectorId": 2,
+                "startedAt": "2020-01-01",
+                "endedAt": "2023-12-31",
+                "isPlanLocked": false,
+                "importContent": 0.0,
+                "createdAt": "2019-07-15 15:09:28",
+                "createdBy": 321,
+                "updatedAt": "2020-02-25 09:20:53",
+                "updatedBy": 321,
+                "isOnGoing": null,
+                "idRef": null,
+                "flagTypeId": null,
+                "kindTypeId": null,
+                "operationTypeCode": null,
+                "operationAt": null,
+                "directorMail": null,
+                "directorTel": null,
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": null,
+                "creditChannelId": null,
+                "code": null,
+                "projectID": 0,
+                "projectScope": "โครงการเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน",
+                "projectArea": "กฟน. กำหนดขอบเขตของแผนงานเปลี่ยนระบบสายไฟฟ้าอากาศเป็นสายไฟฟ้าใต้ดิน ฉบับปฏิบัติการเร่งรัด (Quick Win) โดยมีพื้นที่โครงการ 3 โครงการ ดังนี้\n1. เส้นทางรถไฟฟ้าสายสีม่วง ถ.รัตนาธิเบศร์ (ถ.ราชพฤกษ์ - ถ. กาญจนาภิเษก) ระยะทาง 4.4 กิโลเมตร\n2. เส้นทางรถไฟฟ้าสายสีม่วง ถ.กรุงเทพ-นนทบุรี - ถ.ติวานนท์ ระยะทาง 10.6 กิโลเมตร\n3. เส้นทางรถไฟฟ้าสายสีเขียว ถ.สุขุมวิท (ซ.สุขุมวิท 81 -  ซ.แบริ่ง) ระยะทาง 5.5 กิโลเมตร\nรวมทั้งสิ้น 20.5 กิโลเมตร",
+                "projectLocked": false,
+                "projectLogFrameLocked": false
+            },
+            "id": 20860,
+            "currentProjectPlanId": 254,
+            "createdAt": "2020-02-25 09:20:53",
+            "createdBy": 321,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "currentProjectPlan": {
+                "planYearBudgets": [
+                    {
+                        "id": 1187,
+                        "projectPlanId": 240,
+                        "year": 2564,
+                        "budget": null,
+                        "sourceOfFundId": null
+                    },
+                    {
+                        "id": 1188,
+                        "projectPlanId": 240,
+                        "year": 2565,
+                        "budget": 320000000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1189,
+                        "projectPlanId": 240,
+                        "year": 2566,
+                        "budget": 330000000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1190,
+                        "projectPlanId": 240,
+                        "year": 2567,
+                        "budget": 350000000.0,
+                        "sourceOfFundId": 4
+                    },
+                    {
+                        "id": 1191,
+                        "projectPlanId": 240,
+                        "year": 2568,
+                        "budget": 400000000.0,
+                        "sourceOfFundId": 1
+                    }
+                ],
+                "planConfig": {
+                    "id": 3,
+                    "submitStartedAt": "2020-02-01",
+                    "submitFinishedAt": "2020-03-31",
+                    "anno": null,
+                    "isActive": true,
+                    "createdAt": "2019-12-26 11:30:57",
+                    "createdBy": 2,
+                    "updatedAt": "2020-02-25 16:23:34",
+                    "updatedBy": 2,
+                    "year": 2564,
+                    "isEnable": true
+                },
+                "id": 240,
+                "projectId": 25347,
+                "createdAt": "2020-02-12 15:53:24",
+                "createdBy": 414,
+                "updatedAt": "2020-02-17 08:48:23",
+                "updatedBy": 414,
+                "planConfigId": 3,
+                "coordinatorName": "ตุล รอบรู้",
+                "coordinatorPosition": "พนักงานแผนงานและงบประมาณ 1",
+                "coordinatorTel": "0929191694",
+                "coordinatorMail": "tun@bangkokdock.co.th",
+                "currentPlanApprovalStatus": null
+            },
+            "projectInfo": {
+                "agency": {
+                    "ministryCode": "50000",
+                    "code": "50315",
+                    "name": "บริษัท อู่กรุงเทพ จำกัด",
+                    "isActive": true,
+                    "id": 387,
+                    "ministryId": 25,
+                    "sId": "S315",
+                    "startDate": "2018-01-04",
+                    "endDate": "9999-01-12"
+                },
+                "province": {
+                    "code": "10000000",
+                    "name": "กรุงเทพมหานคร",
+                    "isFlood": true,
+                    "flagGroup": 4,
+                    "provinceGroup": 2
+                },
+                "sector": {
+                    "id": 19,
+                    "name": "สาขาอุตสาหกรรมและพาณิชยกรรม",
+                    "level": 0,
+                    "parentId": 19,
+                    "isActive": true
+                },
+                "id": 25347,
+                "name": "โครงการสร้างอู่เรือแห่งใหม่บริเวณพื้นที่ชายทะเล",
+                "provinceCode": "10000000",
+                "agencyId": 387,
+                "directorName": "ตุล รอบรู้",
+                "directorPosition": "พนักงานแผนงานและงบประมาณ",
+                "background": "เนื่องจากสถานที่ตั้งบริษัทฯ อยู่บริเวณพื้นที่ชั้นในของกรุงเทพมหานครทำให้ไม่สะดวกต่อการให้บริการลูกค้านำเรือเข้าออกเพื่อซ่อมสร้างเรือ เพราะต้องรอเปิดปิดสะพานกรุงเทพ",
+                "goal": "เพื่อเพิ่มศักยภาพการให้บริการซ่อมสร้างเรือและสามารถขยายฐานลูกค้าเพิ่มขึ้นภายในปีงบประมาณ พ.ศ.2570",
+                "approvedAt": null,
+                "budget": 1600000000.0,
+                "sectorId": 19,
+                "startedAt": "2022-10-01",
+                "endedAt": "2027-09-30",
+                "isPlanLocked": false,
+                "importContent": 60.0,
+                "createdAt": "2020-02-12 15:28:08",
+                "createdBy": 414,
+                "updatedAt": "2020-02-18 15:27:34",
+                "updatedBy": 414,
+                "isOnGoing": true,
+                "idRef": null,
+                "flagTypeId": "DPL",
+                "kindTypeId": "P01",
+                "operationTypeCode": "E01",
+                "operationAt": null,
+                "directorMail": "tun@bangkokdock.co.th",
+                "directorTel": "0929191694",
+                "hasPvy": true,
+                "hasEld": null,
+                "isGovBurden": true,
+                "creditChannelId": 1,
+                "code": null,
+                "projectID": 0,
+                "projectScope": null,
+                "projectArea": null,
+                "projectLocked": null,
+                "projectLogFrameLocked": null
+            },
+            "id": 25347,
+            "currentProjectPlanId": 240,
+            "createdAt": "2020-02-12 15:28:08",
+            "createdBy": 414,
+            "updatedAt": null,
+            "updatedBy": null
+        }
+    ]
+}

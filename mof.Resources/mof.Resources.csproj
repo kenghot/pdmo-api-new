@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="excels\ExistingPlanByAgreement - Copy.xlsx" />
+    <None Remove="excels\ExistingPlanByAgreement.xlsx" />
+    <None Remove="excels\ExistingPlanByAgreementForcast.xlsx" />
+    <None Remove="excels\FinancialReport.xlsx" />
+    <None Remove="excels\NewDebtPlan - Copy (2).xlsx" />
+    <None Remove="excels\NewDebtPlan - Copy (3).xlsx" />
+    <None Remove="excels\NewDebtPlan - Copy.xlsx" />
+    <None Remove="excels\NewDebtPlan _backup.xlsx" />
+    <None Remove="excels\NewDebtPlan.xlsx" />
+    <None Remove="excels\NewDebtPlan_backup3 .xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="excels\ExistingPlanByAgreement - Copy.xlsx" />
+    <EmbeddedResource Include="excels\ExistingPlanByAgreement.xlsx" />
+    <EmbeddedResource Include="excels\FinancialReport.xlsx" />
+    <EmbeddedResource Include="excels\NewDebtPlan - Copy (2).xlsx" />
+    <EmbeddedResource Include="excels\NewDebtPlan - Copy (3).xlsx" />
+    <EmbeddedResource Include="excels\NewDebtPlan - Copy.xlsx" />
+    <EmbeddedResource Include="excels\NewDebtPlan_backup3 .xlsx" />
+    <EmbeddedResource Include="excels\NewDebtPlan.xlsx" />
+    <EmbeddedResource Include="excels\NewDebtPlan _backup.xlsx" />
+    <EmbeddedResource Include="excels\ExistingPlanByAgreementForcast.xlsx" />
+  </ItemGroup>
+
+</Project>

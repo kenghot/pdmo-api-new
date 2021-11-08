@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IFinancialReport.cs" />
+    <Compile Remove="IMonthlyReport.cs" />
+    <Compile Remove="IProposal.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.60.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\mof.DataModels\mof.DataModels.csproj" />
+    <ProjectReference Include="..\mof.ServiceModel\mof.ServiceModels.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,77 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Data" #>
+<#@ assembly name="System.Data.Linq" #>
+<#@ assembly name= "$(ProjectDir)\bin\debug\netframework.dll"  #>
+
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Data.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #> 
+<#@ import namespace="netframework" #>
+<#@ import namespace="System.Text.RegularExpressions" #>
+
+<#@ output extension=".cs" #>
+  
+
+using System;
+using System.Collections.Generic;
+using System.Linq; 
+using System.Text;
+using System.Threading.Tasks;
+
+namespace mof.ServiceModels.Constants
+
+{
+    public enum eLOVExtend
+    {
+        PDMOLAWREG
+    }
+    public static class ConstantValue
+    {
+
+		     public static Dictionary<string, string> MIME = new Dictionary<string, string>() {
+            {  "csv","text/csv"  },
+            { "doc","application/msword"},
+            {"docx","application/vnd.openxmlformats-officedocument.wordprocessingml.document" },
+            {"gif","image/gif" },
+            {"htm","text/html" }, 
+            {"html","text/html" }, 
+            {"jpeg","image/jpeg" },
+
+            {"jpg","image/jpeg" },
+            {"png","image/png" },
+            {"pdf","application/pdf" },
+            {"ppt","application/vnd.ms-powerpoint" },
+            {"pptx","application/vnd.ms-powerpoint" },
+            {"rar","application/x-rar-compressed" },
+            {"txt","text/plain" },
+            {"xls","application/vnd.ms-excel" },
+            {"xlsx","application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" },
+            {"zip","application/zip" },
+			 
+        };
+    }
+    public static  class LOVGroup 
+    {
+	<# 
+	     var cn = "Server=common.mgtsvr.com;Initial Catalog=pdmo;MultipleActiveResultSets=true;User ID=sa;Password=DBShare@1234";
+		 var db = new  netframework.Model.mofDataContext(cn);
+	     var g = from gs in db.CE_LOVGroups select gs;
+		 var regex = new Regex("[\\~#%&*{}()/:<>?|\"-. ]"); 
+         foreach (netframework.Model.CE_LOVGroup tmp in g) { 
+		#> 
+        public static class <#= regex.Replace(tmp.LOVGroupName,"_") #> 
+        {  
+		    
+            public const string _LOVGroupCode = "<#= tmp.LOVGroupCode #>";  
+			<#  foreach (netframework.Model.CE_LOV lov in tmp.CE_LOVs)
+                { 
+				#> public static string <#= (lov.LOVGroupCode == "FNREP" || lov.LOVGroupCode == "Ftyp") ? ((lov.LOVGroupCode == "Ftyp") ? "Ftype" : "" ) + lov.LOVCode + "_" + regex.Replace(lov.LOVValue,"_").Replace("“","_").Replace("”","_") : regex.Replace(lov.LOVValue,"_").Replace("“","_").Replace("”","_") #> { get { return "<#= lov.LOVCode #>" ; } }  
+			<#}#>
+        }
+		<#} #>
+    }
+   
+}
+

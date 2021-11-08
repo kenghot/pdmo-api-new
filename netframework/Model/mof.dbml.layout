@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="mof">
+  <DataContextMoniker Name="/mofDataContext" />
+  <nestedChildShapes>
+    <classShape Id="30226bdc-9ccb-42c7-a0f5-c0051b0445e0" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/mofDataContext/CE_LOV" />
+      <nestedChildShapes>
+        <elementListCompartment Id="896c6e78-aa0b-43fb-9543-5e1370bca691" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ecd96e22-c22c-4336-9748-4fc57b28cac6" absoluteBounds="0.75, 1.375, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/mofDataContext/CE_LOVGroup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7276d5b7-c5be-4bcb-9422-d130fa2373cc" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.06814697265625); (3.5 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/mofDataContext/CE_LOVGroup/CE_LOVGroup_CE_LOV" />
+      <nodes>
+        <classShapeMoniker Id="ecd96e22-c22c-4336-9748-4fc57b28cac6" />
+        <classShapeMoniker Id="30226bdc-9ccb-42c7-a0f5-c0051b0445e0" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

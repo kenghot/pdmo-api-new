@@ -1,0 +1,53 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+
+<#@ assembly name= "$(SolutionDir)mof.DataModels\bin\Debug\netcoreapp2.2\mof.DataModels.dll"  #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Linq.Generic" #>
+<#@ assembly name="System.Collections" #>
+<#@ assembly name= "C:\Users\kengh\.nuget\packages\microsoft.entityframeworkcore\2.2.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll"  #>
+
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="mof.DataModels.Models" #>
+
+<#@ output extension=".cs" #>
+  
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace mof.ServiceModels.Constants
+
+{
+    public static class ConstantValue
+    {
+
+
+    }
+    public static  class LOVGroup 
+    {
+	<# 
+	     IEnumerable<string> s;
+
+		 var db = new MOFContext(); 
+	     var g = from gs in db.CeLovgroup select gs;
+
+         foreach (CeLovgroup tmp in g) {        
+		#>
+        public static class <#= tmp.LovgroupCode.Replace(" ","_") #>
+        {
+            public const string _LOVGroupCode = "<#= tmp.Lovcode #>";  
+			<#  foreach (CeLov lov in tmp.CeLov)
+                {
+				#> public static string <#= lov.Lovvalue.Replace(" ","_") #> { get { return "<#= lov.Lovcode #>" ; } }  
+			<#}#>
+        }
+		<#} #>
+    }
+   
+}
+

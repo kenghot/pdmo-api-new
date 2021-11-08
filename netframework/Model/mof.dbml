@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="IdentityServer4Admin" Class="mofDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=IdentityServer4Admin;Integrated Security=True" SettingsObjectName="netframework.Properties.Settings" SettingsPropertyName="IdentityServer4AdminConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="tb.CE_LOV" Member="CE_LOVs">
+    <Type Name="CE_LOV">
+      <Column Name="LOVKey" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LOVGroupCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LOVCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LOVValue" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="TimeStamp" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+      <Column Name="IsCanceled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="OrderNo" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="CE_LOVGroup_CE_LOV" Member="CE_LOVGroup" ThisKey="LOVGroupCode" OtherKey="LOVGroupCode" Type="CE_LOVGroup" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="tb.CE_LOVGroup" Member="CE_LOVGroups">
+    <Type Name="CE_LOVGroup">
+      <Column Name="LOVGroupCode" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LOVGroupName" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="TimeStamp" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+      <Association Name="CE_LOVGroup_CE_LOV" Member="CE_LOVs" ThisKey="LOVGroupCode" OtherKey="LOVGroupCode" Type="CE_LOV" />
+    </Type>
+  </Table>
+</Database>

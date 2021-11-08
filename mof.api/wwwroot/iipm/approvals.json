@@ -1,0 +1,175 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "detail": "เป็นโครงการที่มีงบประมาณน้อยกว่า 4 ล้านบาท",
+            "isActive": true,
+            "createdAt": "2019-04-24 17:05:31",
+            "createdBy": 2,
+            "updatedAt": "2019-04-29 15:19:42",
+            "updatedBy": 2
+        },
+        {
+            "id": 2,
+            "detail": "เป็นโครงการที่มีงบประมาณน้อยกว่า xxx ล้านบาท (ทดสอบ)",
+            "isActive": true,
+            "createdAt": "2019-04-29 11:55:20",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 3,
+            "detail": "ทดสอบ",
+            "isActive": false,
+            "createdAt": "2019-04-29 15:10:56",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 4,
+            "detail": "ทดสอบระบบ2\n",
+            "isActive": true,
+            "createdAt": "2019-04-29 15:23:43",
+            "createdBy": 2,
+            "updatedAt": "2019-04-29 15:41:47",
+            "updatedBy": 2
+        },
+        {
+            "id": 5,
+            "detail": "Test 02",
+            "isActive": true,
+            "createdAt": "2019-05-21 15:01:28",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 6,
+            "detail": "111",
+            "isActive": true,
+            "createdAt": "2019-11-01 16:41:09",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 7,
+            "detail": "มีความสอดคล้องกับยุทธศาสตร์ชาติ แผนการปฏิรูปประเทศ และแผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
+            "isActive": true,
+            "createdAt": "2020-02-25 16:19:04",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 8,
+            "detail": "มีรายงานการศึกษาความเหมาะสมด้านเทคนิค เศรษฐกิจ สังคม การเงิน หรือรายงานการวิเคราะห์ผลกระทบสิ่งแวดล้อม",
+            "isActive": true,
+            "createdAt": "2020-02-25 16:20:29",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 9,
+            "detail": "มีมติคณะรัฐมนตรีอนุมัติให้ดำเนินโครงการ",
+            "isActive": true,
+            "createdAt": "2020-02-25 16:21:13",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 10,
+            "detail": "มีความพร้อมในการดำเนินการ",
+            "isActive": true,
+            "createdAt": "2020-02-25 16:23:24",
+            "createdBy": 2,
+            "updatedAt": null,
+            "updatedBy": null
+        },
+        {
+            "id": 11,
+            "detail": "1. ความสอดคล้องกับนโยบายยุทธศาสตร์ชาติ",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:51:33",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:02:54",
+            "updatedBy": 2
+        },
+        {
+            "id": 12,
+            "detail": "2. ความสอดคล้องกับแผนการปฏิรูปประเทศ",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:51:59",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:03:00",
+            "updatedBy": 2
+        },
+        {
+            "id": 13,
+            "detail": "3. ความสอดคล้องกับแผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:52:37",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:03:06",
+            "updatedBy": 2
+        },
+        {
+            "id": 14,
+            "detail": "4. มีรายงานการศึกษาความเหมาะสมด้านเทคนิค เศรษฐกิจ สังคม การเงิน",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:53:10",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:03:12",
+            "updatedBy": 2
+        },
+        {
+            "id": 15,
+            "detail": "5. มีรายงานการวิเคราะห์ผลกระทบสิ่งแวดล้อม",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:53:28",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:02:31",
+            "updatedBy": 2
+        },
+        {
+            "id": 16,
+            "detail": "6. ได้รับการอนุมัติจากคณะกรรมการของหน่วยงาน",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:53:59",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:02:18",
+            "updatedBy": 2
+        },
+        {
+            "id": 17,
+            "detail": "7. ได้รับการอนุมัติจากกระทรวงเจ้าสังกัด",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:54:23",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:02:12",
+            "updatedBy": 2
+        },
+        {
+            "id": 18,
+            "detail": "8. ได้รับการอนุมัติจากสำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:54:56",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:02:05",
+            "updatedBy": 2
+        },
+        {
+            "id": 19,
+            "detail": "9. ได้รับการอนุมัติจากคณะรัฐมนตรี",
+            "isActive": false,
+            "createdAt": "2020-03-09 13:55:14",
+            "createdBy": 2,
+            "updatedAt": "2020-03-09 14:01:52",
+            "updatedBy": 2
+        }
+    ]
+}
